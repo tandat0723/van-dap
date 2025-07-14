@@ -14,8 +14,10 @@ export default function SearchToggle() {
             return;
         }
 
+        const normarly = removeVietnameseTones(trimQuery.toLowerCase());
+
         const matches = data.filter(item =>
-            item.A.toLowerCase().includes(trimQuery.toLowerCase())
+            removeVietnameseTones(item.A.toLowerCase()).includes(normarly)
         ).slice(0, 5); //keep 5 result
         setResult(matches);
     }, [query]);
@@ -44,4 +46,11 @@ export default function SearchToggle() {
             )}
         </div>
     );
+}
+
+function removeVietnameseTones(str) {
+  return str.normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/đ/g, 'd')
+    .replace(/Đ/g, 'D');
 }
