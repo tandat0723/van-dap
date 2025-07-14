@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Ám Nguyệt Thần Tông",
+  title: "Phong Thần",
   description: "Vấn đáp tông môn",
 };
 
