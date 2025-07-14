@@ -21,11 +21,11 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
+      <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
         <Navbar />
-        {children}
+        <div className="bg-[url('/images/bg-vd.webp')] h-110 flex flex-col rounded-md">
+          {children}
+        </div>
         <Footer />
       </body>
     </html>

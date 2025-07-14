@@ -2,8 +2,11 @@ import SearchToggle from "@/components/SearchToggle/SearchToggle";
 
 export default function Home() {
   return (
-    <div className="max-w-2x1 mx-auto px-4 py-6">
-      <SearchToggle />
+    <div className="relative w-full sm:w-4/5 lg:w-3/5 m-auto h-full">
+      <div className="absolute inset-0 bg-white/40"></div>
+      <div className="relative z-10 flex items-center justify-center h-full">
+        <SearchToggle />
+      </div>
     </div>
   );
 }

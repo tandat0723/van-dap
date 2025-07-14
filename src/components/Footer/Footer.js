@@ -1,10 +1,9 @@
 import React from 'react'
-import './Footer.css'
 
 function Footer() {
     return (
         <div className="card-footer text-center font-weight-bolder p-5 m-2">
-            <div>
+            <div className='items-center gradient-text'>
                 <p>Made with Bubbi &hearts;</p>
             </div>
         </div>
