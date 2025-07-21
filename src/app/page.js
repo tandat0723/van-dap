@@ -1,12 +1,9 @@
-import SearchToggle from "@/components/SearchToggle/SearchToggle";
+import House from "@/components/House";
 
 export default function Home() {
   return (
-    <div className="relative w-full sm:w-4/5 lg:w-3/5 m-auto h-full">
-      <div className="absolute inset-0 bg-white/40"></div>
-      <div className="relative z-10 flex items-center justify-center h-full">
-        <SearchToggle />
-      </div>
-    </div>
+    <main className="bg-[#121212]">
+      <House />
+    </main>
   );
 }

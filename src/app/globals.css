@@ -43,3 +43,42 @@ body {
   font-weight: bold;
   animation: gradientFlow 3s linear infinite;
 }
+
+.text-gradient-animated {
+  background: linear-gradient(
+    90deg,
+    rgb(0, 0, 255),
+    rgb(255, 0, 255),
+    rgb(0, 255, 255),
+    rgb(0, 0, 255)
+  );
+  background-size: 200% 100%;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: bold;
+  animation: gradientFlow 3s linear infinite;
+}
+
+
+.text-thien-chi-ton {
+  animation: digital 0.5s steps(2) infinite;
+  background: url('/images/thien-chi-ton.webp');
+  -webkit-background-clip: text;
+  background-clip: text;
+  background-position: 50%;
+  background-size: auto;
+  color: transparent;
+  font-size: 20px;
+}
+
+
+@keyframes digital {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: .8;
+  }
+}

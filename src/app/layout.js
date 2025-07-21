@@ -22,11 +22,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
-        <Navbar />
-        <div className="bg-[url('/images/bg-vd.webp')] h-110 flex flex-col rounded-md">
-          {children}
-        </div>
-        <Footer />
+        {children}
       </body>
     </html>
   );
