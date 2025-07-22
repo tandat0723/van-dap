@@ -59,8 +59,8 @@ export default function SearchToggle() {
             transition={{ duration: 0.5 }}
             className="relative mx-auto flex justify-center w-90 sm:w-140 md:w-170 lg:w-210 xl:w-240 text-base">
             <input
-                type="text" placeholder="Đạo hữu dán câu hỏi vào đây 👉"
-                className="w-full px-4 py-2 rounded-full border border-gray-400 bg-white pr-12 size-12 text-[17px]
+                type="text" placeholder="Đạo hữu dán từ khóa vào đây nè 👉"
+                className="w-full px-4 py-2 pt-2.5 rounded-full border border-gray-400 bg-white pr-12 size-12 text-[17px]
                         text-gray-800 focus:outline-none focus:ring-1 focus:border-pink-600 transition"
                 onChange={(e) => setQuery(e.target.value)}
                 ref={inputRef}
@@ -81,7 +81,7 @@ export default function SearchToggle() {
                     className="absolute right-3 top-1/2 transform -translate-y-1/2 text-gray-500 hover:text-amber-300"
                     title="Dán từ clipboard"
                 >
-                    <ClipboardIcon className="size-5 mr-2" />
+                    <ClipboardIcon className="size-6 mr-2" />
                 </button>
             )}
 
@@ -97,13 +97,14 @@ export default function SearchToggle() {
                         {result.map((item, index) => (
                             <div
                                 key={index}
-                                className="px-2 py-1.5 pl-4 border-gray-300 last:border-b-0 hover:bg-gray-100 text-[17px] transition">
+                                className="px-2 py-1.5 pl-4 border-gray-500 border-b-1 hover:bg-gray-100 text-[17px] transition">
                                 {item.B}
                             </div>
                         ))}
                     </motion.div>
                 )}
             </AnimatePresence>
+            <div className="-z-0 absolute mt-18 text-white text-center font-semibold px-3 md:px-0">Lưu ý: Ưu tiên tìm kiếm bằng TỪ KHÓA hơn là COPY nguyên câu hỏi nha😋</div>
         </motion.div>
     );
 }

@@ -1,570 +1,798 @@
 [
   {
-    "A": "1 trong 2 admin của website HoatHinh3D là ai? (Biệt danh chính xác ở web) ?",
-    "B": "Từ Dương"
-  },
-  {
-    "A": "Ai đứng đầu Vũ Hồn Điện",
-    "B": "Bỉ Bỉ Đông"
-  },
-  {
     "A": "Ai là huynh đệ và cũng là người thầy mà Vương Lâm trong Tiên Nghịch kính trọng nhất ?",
-    "B": "Tư Đồ Nam"
+    "B": "2. Tư Đồ Nam"
   },
   {
     "A": "Ai là mẹ của Đường Tam ?",
-    "B": "A Ngân"
+    "B": "3. A Ngân"
   },
   {
-    "A": "Ai là người thầy của Đường Tam ?",
-    "B": "Đại Sư"
-  },
-  {
-    "A": "Bạch Tiểu Thuần là tên nhân vật chính trong phim hoạt hình trung quốc nào ?",
-    "B": "Nhất Niệm Vĩnh Hằng"
-  },
-  {
-    "A": "Bộ phim nào sau đây thuộc tiểu thuyết của tác giả Thiên Tằm Thổ Đậu ?",
-    "B": "Tất cả đáp án trên"
-  },
-  {
-    "A": "Các cấp bậc nào sau đây thuộc phim Đấu Phá Thương Khung ?",
-    "B": "Đấu Tông"
-  },
-  {
-    "A": "Công pháp gì giúp Tiêu Viêm trong Đấu Phá Thương Khung hấp thụ nhiều loại dị hỏa ?",
-    "B": "Phần Quyết"
-  },
-  {
-    "A": "Danh xưng Tàn Thi Bại Thuế là của nhân vật nào trong Họa Gia Hồ Chi Bất Lương Nhân ?",
-    "B": "Hàng Thần"
-  },
-  {
-    "A": "Diệp Phàm là nhân vật chính trong bộ hoạt hình trung quốc nào ?",
-    "B": "Già Thiên"
-  },
-  {
-    "A": "Diệp Thần trong Tiên Võ Đế Tôn gia nhập Tông Môn nào đầu tiên ?",
-    "B": "Chính Dương Tông"
-  },
-  {
-    "A": "Đại ca của Tiêu Viêm trong Đấu Phá Thương Khung tên gì ?",
-    "B": "Tiêu Đỉnh"
-  },
-  {
-    "A": "Đạo lữ của Hàn Lập là ai ?",
-    "B": "Nam Cung Uyển"
-  },
-  {
-    "A": "Đâu là nhân vật chính trong phim Bách Luyện Thành Thần ?",
-    "B": "La Chinh"
-  },
-  {
-    "A": "Đâu là Thái Cổ Thập Hung trong phim Thế Giới Hoàn Mỹ ?",
-    "B": "Tất cả đáp án trên"
-  },
-  {
-    "A": "Đâu là tuyệt kỹ số 1 Hạo Thiên Tông mà Đường Hạo dạy cho con trai trong Đấu La Đại Lục ?",
-    "B": "Đại Tu Di Chuỳ"
-  },
-  {
-    "A": "Đấu Sát Toàn Viêm Kiếm là một kỹ năng trong bộ phim hoạt hình trung quốc nào ?",
-    "B": "Thần Ấn Vương Tọa"
-  },
-  {
-    "A": "Độc Cô Bác trong Đấu La Đại Lục có vũ hồn gì ?",
-    "B": "Bích Lân Xà"
-  },
-  {
-    "A": "Em trai ruột của Thạch Hạo trong Thế Giới Hoàn Mỹ là ai ?",
-    "B": "Tần Hạo"
-  },
-  {
-    "A": "Hàn Lập trong Phàm Nhân Tu Tiên đến Thất Huyền Môn bái ai làm thầy ?",
-    "B": "Mặc Đại Phu"
-  },
-  {
-    "A": "Hàn Lập trong Phàm Nhân Tu Tiên gia nhập môn phái nào đầu tiên ?",
-    "B": "Thất Huyền Môn"
-  },
-  {
-    "A": "Hoang Thiên Đế là nhân vật chính trong bộ phim hoạt hình trung quốc nổi tiếng nào ?",
-    "B": "Thế Giới Hoàn Mỹ"
-  },
-  {
-    "A": "Hoắc Vũ Hạo là hậu nhân của ai trong Sử Lai Khắc ?",
-    "B": "Đới Mộc Bạch"
-  },
-  {
-    "A": "Hồn hoàn màu nào mạnh nhất ?",
-    "B": "Màu Đỏ"
-  },
-  {
-    "A": "Huân Nhi là công chúa của bộ tộc nào ?",
-    "B": "Cổ Tộc"
-  },
-  {
-    "A": "Khi ở Già Nam Học Viện, Tiêu Viêm thu phục được loại dị hỏa nào ?",
-    "B": "Vẫn Lạc Tâm Viêm"
-  },
-  {
-    "A": "Kính Huyền trong Quyến Tư Lượng là hậu duệ của tộc nào ?",
-    "B": "Thần Tộc"
-  },
-  {
-    "A": "Lạc Ly trong Đại Chúa Tể là nhân vật trong Tộc nào ?",
-    "B": "Lạc Thần Tộc"
-  },
-  {
-    "A": "Lâm Động trong Vũ Động Càn Khôn luyện hóa Tổ Phù nào đầu tiên ?",
-    "B": "Thôn Phệ Tổ Phù"
-  },
-  {
-    "A": "Long Tuyền Kiếm xuất hiện trọng bộ phim hoạt hình nào dưới đây ?",
-    "B": "Họa Giang Hồ Chi Bất Lương Nhân"
-  },
-  {
-    "A": "Lục Tuyết Kỳ trong Tru Tiên thuộc Phong nào trong Thanh Vân Môn ?",
-    "B": "Tiểu Trúc Phong"
-  },
-  {
-    "A": "Lý Tinh Vân là một nhân vật trong bộ phim hoạt hình trung quốc nào sau đây ?",
-    "B": "Họa Giang Hồ Chi Bất Lương Nhân"
-  },
-  {
-    "A": "Lý Tinh Vân trong Họa Giang Hồ Chi Bất Lương Nhân sử dụng vũ khí nào sau đây ?",
-    "B": "Long Tuyền Kiếm"
-  },
-  {
-    "A": "Main chính trong Yên Thần Ký tên là gì ?",
-    "B": "Nhiếp Ly"
-  },
-  {
-    "A": "Man Hồ Tử trong phim “Phàm Nhân Tu Tiên” tu luyện công pháp nào ?",
-    "B": "Thác Thiên Ma Công"
-  },
-  {
-    "A": "Mẫu thân của La Phong trong Thôn Phệ Tinh Không tên gì ?",
-    "B": "Cung Tâm Lan"
-  },
-  {
-    "A": "Mẹ của Tần Trần là ai ?",
-    "B": "Tần Nguyệt Trì"
-  },
-  {
-    "A": "Mẹ của Thạch Hạo trong Thế Giới Hoàn Mỹ tên là ?",
-    "B": "Tần Di Ninh"
-  },
-  {
-    "A": "Mục đích tu luyện của Vương Lâm trong Tiên Nghịch theo diễn biến phim hiện tại là gì ?",
-    "B": "Báo thù"
-  },
-  {
-    "A": "Mục Trần trong Đại Chúa Tể liên kết Huyết Mạch với ai ?",
-    "B": "Cửu U Tước"
-  },
-  {
-    "A": "Nam chính trong phim Quyến Tư Lượng là ai ?",
-    "B": "Kính Huyền"
-  },
-  {
-    "A": "Nghịch Thiên Nhi Hành là một nhân vật trong bộ phim hh3d nào sau đây ?",
-    "B": " Vũ Canh Kỷ"
-  },
-  {
-    "A": "Nhân vật chính của Đấu La Đại Lục là ai ?",
-    "B": "Đường Tam"
-  },
-  {
-    "A": "Nhân vật chính của Thần Ấn Vương Tọa là ai ?",
-    "B": "Long Hạo Thần"
-  },
-  {
-    "A": "Nhân vật chính trong Thương Nguyên Đồ là ai ?",
-    "B": "Mạnh Xuyên"
-  },
-  {
-    "A": "Nhân vật nào luôn bất bại trong phim Hoạt Hình Trung Quốc, được ví như One-Punch Man ?",
-    "B": "Từ Dương"
-  },
-  {
-    "A": "Nhị ca của Tiêu Viêm trong Đấu Phá Thương Khung tên gì ?",
-    "B": "Tiêu Lệ"
-  },
-  {
-    "A": "Nữ chính trong phim Quyến Tư Lượng là ai ?",
-    "B": "Đồ Lệ"
-  },
-  {
-    "A": "Sử Lai Khắc Thất Quái đã từng đến nơi nào để luyện tập ?",
-    "B": "Hải Thần Đảo"
-  },
-  {
-    "A": "Sư phụ của Lý Trường Thọ là ai ?",
-    "B": "Tề Nguyên"
-  },
-  {
-    "A": "Sư phụ thứ 2 của Lý Trường Thọ trong phim \"Sư Huynh A Sư Huynh\" là ai ?",
-    "B": "Thái Thanh Thánh Nhân"
-  },
-  {
-    "A": "Tại sao Đường Tam bị Đường Môn truy sát ở tập đầu phim Đấu La Đại Lục ?",
-    "B": "Học trộm tuyệt học bổn môn"
-  },
-  {
-    "A": "Tần Vũ trong Tinh thần Biến được tặng pháp bảo siêu cấp vip pro nào để tu luyện nhanh chóng ?",
-    "B": "Khương Lan Tháp"
-  },
-  {
-    "A": "Tần Vũ trong Tinh Thần Biến khiếm khuyết đan điền nhờ đâu mới có thể tu luyện ?",
-    "B": "Lưu Tinh Lệ"
-  },
-  {
-    "A": "Thần Thông Bí Cảnh xuất hiện trong bộ phim hoạt hình nào dưới đây ?",
-    "B": "Vĩnh Sinh"
-  },
-  {
-    "A": "Thần vị mà Đường Tam đạt được là gì ?",
-    "B": "Hải Thần và Tu La Thần"
-  },
-  {
-    "A": "Thế lực nào là đối thủ lớn nhất của Tiêu Viêm trong Đấu Phá Thương Khung ?",
-    "B": "Hồn Điện"
-  },
-  {
-    "A": "Tiêu Viêm đã lập nên thế lực nào khi ở Già Nam Học Viện ?",
-    "B": "Bàn Môn"
-  },
-  {
-    "A": "Tiêu Viêm thuộc gia tộc nào ?",
-    "B": "Tiêu Gia"
-  },
-  {
-    "A": "Tiêu Viêm trong Đấu Phá Thương Khung đã Hẹn Ước 3 Năm với ai ?",
-    "B": "Nạp Lan Yên Nhiên"
-  },
-  {
-    "A": "Trong bộ Đấu Phá Thương Khung, Tiêu Viêm tìm đến ai để cứu Dược Lão ?",
-    "B": "Phong Tôn Giả"
-  },
-  {
-    "A": "Trong bộ Tiên Nghịch, nhân vật chính Vương Lâm khi ở quê nhà có tên khác là gì ?",
-    "B": "Thiết Trụ"
-  },
-  {
-    "A": "Trong Đấu La Đại Lục, Đường Hạo là gì của Đường Tam ?",
-    "B": "Cha"
-  },
-  {
-    "A": "Trong Già Thiên, thể chất của Diệp Phàm là thể chất gì ?",
-    "B": "Hoang Cổ Thánh Thể"
-  },
-  {
-    "A": "Trong Phàm Nhân Tu Tiên ai bị luyện thành khôi lỗi Khúc Hồn ?",
-    "B": "Trương Thiết"
-  },
-  {
-    "A": "Trong phim Tiên Nghịch, Vương Lâm vô tình có được pháp bảo nghịch thiên nào ?",
-    "B": "Thiên Nghịch Châu"
-  },
-  {
-    "A": "Trong Tiên Nghịch, Vương Lâm nhận được truyền thừa gì ở Cổ Thần Chi Địa ?",
-    "B": "Ký Ức"
-  },
-  {
-    "A": "Trong Tru Tiên, Điền Bất Dịch là thủ tọa của Phong nào ?",
-    "B": "Đại Trúc Phong"
-  },
-  {
-    "A": "Trong Vĩnh Sinh - Phương Hàn hẹn ước 10 năm cùng với ai ?",
-    "B": "Hoa Thiên Đô"
-  },
-  {
-    "A": "Trương Tiểu Phàm trong phim Tru Tiên có tên gọi là gì ?",
-    "B": "Quỷ Lệ"
-  },
-  {
-    "A": "Trương Tiểu Phàm trong Tru Tiên từng được nhận vào môn phái nào ?",
-    "B": "Thanh Vân Môn"
-  },
-  {
-    "A": "Vân Triệt là tên nhân vật chính trong bộ phim hoạt hình trung quốc nào sau đây ?",
-    "B": "Nghịch Thiên Tà Thần"
-  },
-  {
-    "A": "Vũ hồn của Chu Trúc Thanh là gì ?",
-    "B": "U Minh Linh Miêu"
-  },
-  {
-    "A": "Vũ hồn của Đới Mộc Bạch là gì ?",
-    "B": "Bạch Hổ"
-  },
-  {
-    "A": "Vũ hồn của Mã Hồng Tuấn là gì ?",
-    "B": "Hỏa Phượng Hoàng"
-  },
-  {
-    "A": "Vũ hồn của Tiểu Vũ là gì ?",
-    "B": "Nhu Cốt Thố"
-  },
-  {
-    "A": "Vũ hồn thứ hai của Đường Tam là gì ?",
-    "B": "Hạo Thiên Chùy"
-  },
-  {
-    "A": "Vũ khí mà Tiêu Viêm trong Đấu Phá Thương Khung luôn mang bên mình có tên gọi là gì ?",
-    "B": "Huyền Trọng Xích"
-  },
-  {
-    "A": "Vương Lâm trong phim Tiên Nghịch dựa vào gì để vô địch cùng cảnh giới ?",
-    "B": "Cực Cảnh"
+    "A": "Ai là người đứng đầu Vũ Hồn Điện ?",
+    "B": "4. Bỉ Bỉ Đông"
   },
   {
     "A": "Ai là nhân vật chính trong bộ phim hoạt hình trung quốc Thần Mộ ?",
-    "B": "Thần Nam"
+    "B": "4. Thần Nam"
   },
   {
-    "A": "Nhân vật  Bách Lý Đồ Minh xuất hiện trong bộ phim hoạt hình nào ?",
-    "B": "Trảm Thần Chi Phàm Trần Thần Vực"
-  },
-  {
-    "A": "Bách Lý Đông Quân là nhân vật trong bộ phim hoạt hình Trung Quốc nào sau đây ?",
-    "B": "Thiếu Niên Bạch Mã Túy Xuân Phong"
+    "A": "Bách Lý Đông Quân là nhân vật trong bộ hoạt hình trung quốc nào sau đây ?",
+    "B": "1. Thiếu Niên Bạch Mã Tuý Xuân Phong"
   },
   {
     "A": "Bạch Nguyệt Khôi là tên nhân vật chính trong bộ phim hoạt hình trung quốc nào sau đây ?",
-    "B": "Linh Lung"
+    "B": "4. Linh Lung"
+  },
+  {
+    "A": "Bạch Tiểu Thuần là nhân vật chính trong bộ hoạt hình trung quốc nào ?",
+    "B": "4. Nhất Niệm Vĩnh Hằng"
   },
   {
     "A": "Bạch Tiểu Thuần trong Nhất Niệm Vĩnh Hằng luôn được ai âm thầm giúp đỡ ?",
-    "B": "Đỗ Lăng Phỉ"
+    "B": "4. Đỗ Lăng Phỉ"
+  },
+  {
+    "A": "Bộ phim nào sau đây thuộc tiểu thuyết của tác giả Thiên Tằm Thổ Đậu ?",
+    "B": "4. Tất cả đáp án trên (ĐCT, VĐCK, ĐPTK)"
+  },
+  {
+    "A": "Các cấp bậc nào sau đây thuộc phim Đấu Phá Thương Khung ?",
+    "B": "4. Đấu Tông"
   },
   {
     "A": "Cháu dượng của Bạch Tiểu Thuần trong Nhất Niệm Vĩnh Hằng là ai ?",
-    "B": "Tống Khuyết"
+    "B": "2. Tống Khuyết"
   },
   {
     "A": "Chủ nhân đời trước của Vẫn Lạc Tâm Viêm trong Đấu Phá Thương Khung là ai ?",
-    "B": "Diệu Thiên Hỏa"
+    "B": "1. Diệu Thiên Hỏa"
+  },
+  {
+    "A": "Công pháp gì giúp Tiêu Viêm trong Đấu Phá Thương Khung hấp thụ nhiều loại dị hỏa ?",
+    "B": "3. Phần Quyết"
   },
   {
     "A": "Công pháp nào sau đây là của Hàn Lập trong Phàm Nhân Tu Tiên ?",
-    "B": "Tất cả đáp án trên"
+    "B": "4. Tất cả đáp án trên (MVQ, TXC, TNKQ)"
   },
   {
-    "A": "Cơ Tử Nguyệt là nhân vật trong bộ phim hoạt hình Trung Quốc nào sau đây ?",
-    "B": "Già Thiên"
+    "A": "Cơ Tử Nguyệt là nhân vật trong các bộ hoạt hình trung quốc nào sau đây ?",
+    "B": "3. Già Thiên"
   },
   {
     "A": "Dạ Táng còn là biệt danh của ai trong Nhất Niệm Vĩnh Hằng ?",
-    "B": "Bạch Tiểu Thuần"
+    "B": "3. Bạch Tiểu Thuần"
+  },
+  {
+    "A": "Danh xưng Tàn Thi Bại Thuế là của nhân vật nào trong Hoạ Giang Hồ Chi Bất Lương Nhân ?",
+    "B": "2. Hàng Thần"
   },
   {
     "A": "Diễm Linh Cơ là nhân vật trong phim hoạt hình trung quốc nào ?",
-    "B": "Thiên Hành Cửu Ca"
+    "B": "3. Thiên Hành Cửu Ca"
   },
   {
-    "A": "Dược Trần trong đấu phá thương khung đã từng bị đồ đệ nào phản bội ?",
-    "B": "Hàn Phong"
+    "A": "Diệp Phàm là nhân vật chính trong bộ hoạt hình trung quốc nào ?",
+    "B": "3. Già Thiên"
+  },
+  {
+    "A": "Diệp Thần trong Tiên Võ Đế Tôn gia nhập Tông Môn nào đầu tiên ?",
+    "B": "2. Chính Dương Tông"
+  },
+  {
+    "A": "Dược Trần trong Đấu Phá Thương Khung đã từng bị đồ đệ nào phản bội ?",
+    "B": "3. Hàn Phong"
+  },
+  {
+    "A": "Đại ca của Tiêu Viêm trong Đấu Phá Thương Khung tên gì ?",
+    "B": "4. Tiêu Đỉnh"
   },
   {
     "A": "Đàm Vân là nhân vật chính trong bộ phim hoạt hình trung quốc nào sau đây ?",
-    "B": "Nghịch Thiên Chí Tôn"
+    "B": "2. Nghịch Thiên Chí Tôn"
+  },
+  {
+    "A": "Đạo lữ của Hàn Lập là ai ?",
+    "B": "4. Nam Cung Uyển"
+  },
+  {
+    "A": "Đâu là nhân vật chính trong phim Bách Luyện Thành Thần ?",
+    "B": "3. La Chinh"
+  },
+  {
+    "A": "Đâu là Thái Cổ Thập Hung trong phim Thế Giới Hoàn Mỹ ?",
+    "B": "4. Tất cả đáp án trên (ĐTT, CU, CL)"
+  },
+  {
+    "A": "Đâu là tuyệt kỹ số 1 Hạo Thiên Tông mà Đường Hạo dạy cho con trai trong Đấu La Đại Lục ?",
+    "B": "1. Đại Tu Di Chùy"
+  },
+  {
+    "A": "Đấu Sát Toàn Viên Kiếm là một kỹ năng trong bộ phim hoạt hình trung quốc nào ?",
+    "B": "3. Thần Ấn Vương Toạ"
+  },
+  {
+    "A": "Độc Cô Bác trong Đấu La Đại Lục có vũ hồn gì ?",
+    "B": "2. Bích Lân Xà"
+  },
+  {
+    "A": "Em trai ruột của Thạch Hạo trong Thế Giới Hoàn Mỹ là ai ?",
+    "B": "2. Tần Hạo"
   },
   {
     "A": "Hàn Lập sở hữu những vật phẩm nào dưới đây ?",
-    "B": "Thanh Trúc Phong Vân Kiếm"
+    "B": "4. Thanh Trúc Phong Vân Kiếm"
   },
   {
-    "A": "Hàn Lập trong Phàm Nhân Tu Tiên từng cứu ai mà bị hấp thu tu vi giảm xuống Luyện Khí Kỳ ?",
-    "B": "Nam Cung Uyển"
+    "A": "Hàn Lập trong Phàm Nhân Tu Tiên đến Thất Huyền Môn bái ai làm thầy ?",
+    "B": "1. Mặc Đại Phu"
+  },
+  {
+    "A": "Hàn Lâp trong Phàm Nhân Tu Tiên gia nhập môn phái nào đầu tiên ?",
+    "B": "1. Thất Huyền Môn"
+  },
+  {
+    "A": "Hàn Lập trong Phàm Nhân Tu Tiên từng cứu ai mà bị hấp thụ tu vi giảm xuống Luyện Khí Kỳ ?",
+    "B": "3. Nam Cung Uyển"
+  },
+  {
+    "A": "Hoang Thiên Đế là nhân vật chính trong bộ phim hoạt hình trung quốc nổi tiếng nào ?",
+    "B": "4. Thế Giới Hoàn Mỹ"
+  },
+  {
+    "A": "Hoắc Vũ Hạo là hậu nhân của ai trong Sử Lai Khắc ?",
+    "B": "4. Đái Mộc Bạch"
+  },
+  {
+    "A": "Hồn hoàn màu nào mạnh nhất ?",
+    "B": "4. Đỏ"
+  },
+  {
+    "A": "Huân Nhi là công chúa của bộ tộc nào ?",
+    "B": "3. Cổ Tộc"
+  },
+  {
+    "A": "Khi ở Già Nam Học Viện, Tiêu Viêm thu phục được loại dị hỏa nào ?",
+    "B": "3. Vẫn Lạc Tâm Viêm"
+  },
+  {
+    "A": "Kính Huyền trong Quyến Tư Lượng là hậu duệ của tộc nào ?",
+    "B": "4. Thần Tộc"
+  },
+  {
+    "A": "Lạc Ly trong Đại Chúa Tể là nhân vật trong Tộc nào ?",
+    "B": "3. Lạc Thần Tộc"
   },
   {
     "A": "Lâm Động trong Vũ Động Càn Khôn học được Linh Võ Học nào khi vào bia cổ Đại Hoang ?",
-    "B": "Đại Hoang Tù Thiên Chỉ"
+    "B": "2. Đại Hoang Tù Thiên Chỉ"
+  },
+  {
+    "A": "Lâm Động trong Vũ Động Càn Khôn luyện hóa Tổ Phù nào đầu tiên ?",
+    "B": "2. Thôn Phệ Tổ Phù"
   },
   {
     "A": "Lâm Động trong Vũ Động Càn Khôn sử dụng vũ khí loại nào sau đây ?",
-    "B": "Thương"
+    "B": "3. Thương"
   },
   {
-    "A": "Lâm Phong là một nhân vật trong bộ phim hoạt hình trung quốc nào sau đây ?",
-    "B": "Vạn Giới Độc Tôn"
+    "A": "Lâm Phong là nhân vật trong bộ hoạt hình trung quốc nào sau đây ?",
+    "B": "4. Vạn Giới Độc Tôn"
   },
   {
     "A": "Lâm Thất Dạ là nhân vật trong bộ phim hoạt hình trung quốc nào sau đây ?",
-    "B": "Trảm Thần"
+    "B": "2. Trảm Thần"
   },
   {
     "A": "Lâm Thất Dạ trong Trảm Thần sở hữu sức mạnh của vị thần nào ?",
-    "B": "Thiên Sứ"
+    "B": "1. Thiên Sứ"
   },
   {
-    "A": "Lý Trường Thọ trong Sư Huynh A Sư Huynh xuyên không về hh bái sư ở đâu ?",
-    "B": "Độ Tiên Môn"
+    "A": "Long Tuyền Kiếm xuất hiện trong bộ phim hoạt hình nào dưới đây ?",
+    "B": "3. Họa Giang Hồ Chi Bất Lương Nhân"
+  },
+  {
+    "A": "Lục Tuyết Kỳ trong Tru Tiên thuộc Phong nào trong Thanh Vân Môn ?",
+    "B": "1. Tiểu Trúc Phong"
+  },
+  {
+    "A": "Lý Tinh Vân trong Họa Giang Hồ Chi Bất Lương Nhân sử dụng vũ khí nào sau đây ?",
+    "B": "3. Long Tuyền Kiếm"
+  },
+  {
+    "A": "Lý Trường Thọ trong Sư Huynh A Sư Huynh xuyên không về Hồng Hoang bái sư ở đâu ?",
+    "B": "2. Độ Tiên Môn"
+  },
+  {
+    "A": "Man Hồ Tử trong phim \"\"Phàm Nhân Tu Tiên\"\" tu luyện công pháp nào ?",
+    "B": "1. Thác Thiên Ma Công"
+  },
+  {
+    "A": "Mẫu thân của La Phong trong Thôn Phệ Tinh Không tên là gì ?",
+    "B": "4. Cung Tâm Lan"
   },
   {
     "A": "Mẹ của Mạnh Xuyên trong Thương Nguyên Đồ tên là gì ?",
-    "B": "Bạch Niệm Vân"
+    "B": "2. Bạch Niệm Vân"
+  },
+  {
+    "A": "Mẹ của Tần Trần là ai ?",
+    "B": "4. Tần Nguyệt Trì"
+  },
+  {
+    "A": "Mẹ của Thạch Hạo trong Thế Giới Hoàn Mỹ tên là gì ?",
+    "B": "4. Tần Di Ninh"
   },
   {
     "A": "Mối tình đầu của Diệp Thần trong Tiên Võ Đế Tôn là ai ?",
-    "B": "Cơ Ngưng Sương"
+    "B": "3. Cơ Ngưng Sương"
   },
   {
-    "A": "Mục Vân là nhân vật trong bộ phim hoạt hình trung quốc nào sau đây ?",
-    "B": "Vô Thượng Thần Đế"
+    "A": "Mục đích tu luyện của Vương Lâm trong Tiên Nghịch theo diễn biến phim hiện tại là gì ?",
+    "B": "2. Báo Thù"
   },
   {
-    "A": "Nam chính trong bộ phim hoạt hình trung quốc Ám Hà Truyện là ai ?",
-    "B": "Tô Mộ Vũ"
+    "A": "Mục Trần trong Đại Chúa Tể liên kết Huyết Mạch với ?",
+    "B": "2. Cửu U Tước"
   },
   {
-    "A": "Nghịch Hà Tông là Tông Môn trong bộ phim hoạt hình trung quốc nào sau đây ?",
-    "B": "Nhất Niệm Vĩnh Hằng"
+    "A": "Mục Vân là nhân vật trong bộ hoạt hình trung quốc nào sau đây ?",
+    "B": "4. Vô Thượng Thần Đế"
+  },
+  {
+    "A": "Nam chính trong bộ hoạt hình trung quốc Ám Hà Truyện là ai ?",
+    "B": "4. Tô Mộ Vũ"
+  },
+  {
+    "A": "Nam chính trong bộ Quyến Tư Lượng là ai ?",
+    "B": "2. Kính Huyền"
+  },
+  {
+    "A": "Nghịch Hà Tông là Tông Môn trong bộ hoạt hình trung quốc nào sau đây ?",
+    "B": "1. Nhất Niệm Vĩnh Hằng"
+  },
+  {
+    "A": "Nghịch Thiên Nhi Hành là một nhân vật trong bộ phim hh3d nào sau đây ?",
+    "B": "3. Vũ Canh Kỷ"
   },
   {
     "A": "Ngụy Anh (Ngụy Vô Tiện) là nhân vật trong bộ hhtq nào sau đây ?",
-    "B": "Ma Đạo Tổ Sư"
+    "B": "3. Ma Đạo Tổ Sư"
   },
   {
     "A": "Người bạn thuở nhỏ của Trương Tiểu Phàm trong Tru Tiên là ai ?",
-    "B": "Lâm Kinh Vũ"
-  },
-  {
-    "A": "Nhân vật chính Lý Trường Thọ trong Sư Huynh A Sư Huynh đã tỏ tình với ai ?",
-    "B": "Vân Tiêu"
-  },
-  {
-    "A": "Nhân vật nào sau đây được mệnh danh là Vua Lỳ Đòn trong Đấu Phá Thương Khung ?",
-    "B": "Phượng Thanh Nhi"
-  },
-  {
-    "A": "Nhiếp Phong là nhân vật chính trong phim hoạt hình trung quốc nào ?",
-    "B": "Chân Võ Đỉnh Phong"
-  },
-  {
-    "A": "Ninh Diêu là một nhân vật trong bộ phim hoạt hình trung quốc nào sau đây ?",
-    "B": "Kiếm Lai"
-  },
-  {
-    "A": "Nữ chính cũng là vợ Đông Bá Tuyết Ưng trong Tuyết Ưng Lĩnh Chủ là ai sau đây ?",
-    "B": "Dư Tĩnh Thu"
-  },
-  {
-    "A": "Ông nội của Lâm Động trong Vũ Động Càn Khôn là ai ?",
-    "B": "Lâm Chấn Thiên"
-  },
-  {
-    "A": "Phụ thân của Lâm Động trong Vũ Động Càn Khôn là ai ?",
-    "B": "Lâm Khiếu"
-  },
-  {
-    "A": "Phương Hàn là nhân vật trong bộ phim hoạt hình trung quốc nào sau đây ?",
-    "B": "Vĩnh Sinh"
-  },
-  {
-    "A": "Phương Hàn trong Vĩnh Sinh nhận được Giao Phục Hoàng Tuyền Đồ từ ai ?",
-    "B": "Bạch Hải Thiện"
-  },
-  {
-    "A": "Phương Hàn trong Vĩnh Sinh xuất thân là gì ở nhà họ Phương ?",
-    "B": "Nô Bộc"
-  },
-  {
-    "A": "Phượng Thanh Nhi trong Đấu Phá Thương Khung thuộc chủng tộc nào ?",
-    "B": "Thiên Yêu Hoàng Tộc"
-  },
-  {
-    "A": "Số hiệu vị thần của main trong Trảm Thần: Phàm Trần Thần Vực là số mấy ?",
-    "B": "B. 003"
-  },
-  {
-    "A": "Sư mẫu của Bạch Tiểu Thuần trong Nhất Niệm Vĩnh Hằng là ai ?",
-    "B": "Hứa Mị Nương"
-  },
-  {
-    "A": "Sư phụ của Bạch Tiểu Thuần trong Nhất Niệm Vĩnh Hằng là ai ?",
-    "B": "Lý Thanh Hậu"
-  },
-  {
-    "A": "Sư phụ mà Diệp Thần yêu trong Tiên Võ Đế Tôn là ai ?",
-    "B": "Sở Huyên Nhi"
-  },
-  {
-    "A": "Thánh nữ nào trong Già Thiên bị nhân vật chính Diệp Phàm lấy mất cái áo lót ?",
-    "B": "Diêu Hi"
-  },
-  {
-    "A": "Thiên Hỏa Tôn Giả trong Đấu Phá Thương Khung dùng thi thể của ai để hồi sinh ?",
-    "B": "Vân Sơn"
-  },
-  {
-    "A": "Thú cưng Thôn Thôn trong Nguyên Tôn sinh ra có sức mạnh ngang cảnh giới nào ?",
-    "B": "Thái Sơ Cảnh"
-  },
-  {
-    "A": "Tiêu Kinh Tuyết xuất hiện trong bộ phim hoạt hình nào dưới đây ?",
-    "B": "Tuyệt Thế Chiến Hồn"
-  },
-  {
-    "A": "Tiêu Viêm trong Đấu Phá Thương Khung sử dụng loại vũ khí nào sau đây ?",
-    "B": "Thước"
-  },
-  {
-    "A": "Tình đầu của Diệp Phàm trong Già Thiên là ai ?",
-    "B": "Lý Tiểu Mạn"
-  },
-  {
-    "A": "Trần Bình An là nam chính trong bộ phim hoạt hình trung quốc nào ?",
-    "B": "Kiếm Lai"
-  },
-  {
-    "A": "Triệu Ngọc Chân là nhân vật trong bộ phim hoạt hình Trung Quốc nào sau đây ?",
-    "B": "Thiếu Niên Bạch Mã Túy Xuân Phong"
-  },
-  {
-    "A": "Trước khi đến Linh Khê Tông, Bạch Tiểu Thuần trong Nhất Niệm Vĩnh Hằng ở đâu ?",
-    "B": "Mạo Nhi Sơn Thôn"
-  },
-  {
-    "A": "Tử Nghiên trong Đấu Phá Thương Khung thuộc chủng tộc nào ?",
-    "B": "Thái Hư Cổ Long"
-  },
-  {
-    "A": "Vũ Canh là nhân vật trong phim hoạt hình nào sau đây ?",
-    "B": "Vũ Canh Kỷ"
-  },
-  {
-    "A": "Vũ khí của Đàm Vân trong nghịch thiên chí tôn là gì ?",
-    "B": "Hồng Mông Thần Kiếm"
-  },
-  {
-    "A": "Y Lai Khắc Tư là một nhân vật trong bộ phim hoạt hình trung quốc nào sau đây ?",
-    "B": "Cả 1 và 2"
-  },
-  {
-    "A": "Ám Tinh Giới được xuất hiện trong bộ phim hoạt hình nào dưới đây ?",
-    "B": "Tinh Thần Biến"
-  },
-  {
-    "A": "Tỉnh Cửu là nhân vật chính trong bộ phim hoạt hình trung quốc nào sau đây ?",
-    "B": "Đại Đạo Triều Thiên"
-  },
-  {
-    "A": "Tiêu Thần là nhân vật chính trong bộ phim hoạt hình trung quốc nào sau đây ?",
-    "B": "Trường Sinh Giới"
-  },
-  {
-    "A": "Tần Mục là nhân vật chính trong bộ phim hoạt hình trung quốc nào sau đây ?",
-    "B": "Mục Thần Ký"
-  },
-  {
-    "A": "Tần Nam là nhân vật chính trong bộ hoạt hình trung quốc nào sau đây ?",
-    "B": "Tuyệt Thế Chiến Hồn"
+    "B": "2. Lâm Kinh Vũ"
   },
   {
     "A": "Nhân vật Bách Lý Đồ Minh xuất hiện trong phim hoạt hình nào dưới đây ?",
-    "B": "Trảm Thần Chi Phàm Trần Thần Vực"
+    "B": "4. Trảm Thần Chi Phàm Trần Thần Vực"
+  },
+  {
+    "A": "Nhân vật chính của \"\"Thần Ấn Vương Tọa\"\" là ai ?",
+    "B": "1. Long Hạo Thần"
+  },
+  {
+    "A": "Nhân vật chính của Đấu La Đại Lục là ai ?",
+    "B": "2. Đường Tam"
+  },
+  {
+    "A": "Nhân vật chính Lý Trường Thọ trong Sư Huynh A Sư Huynh đã tỏ tình với ai ?",
+    "B": "3. Vân Tiêu"
+  },
+  {
+    "A": "Nhân vật chính trong Thương Nguyên đồ là ai ?",
+    "B": "4. Mạnh Xuyên"
+  },
+  {
+    "A": "Nhân vật chính trong Yêu Thần Ký tên là gì ?",
+    "B": "4. Nhiếp Ly"
+  },
+  {
+    "A": "Nhân vật nào luôn bất bại trong phim Hoạt Hình Trung Quốc, được ví như One-Punch Man ?",
+    "B": "2. Từ Dương"
+  },
+  {
+    "A": "Nhân vật nào sau đây được mệnh danh là Vua Lỳ Đòn trong Đấu Phá Thương Khung ?",
+    "B": "1. Phượng Thanh Nhi"
+  },
+  {
+    "A": "Nhị ca của Tiêu Viêm trong Đấu Phá Thương Khung tên gì ?",
+    "B": "1. Tiêu Lệ"
+  },
+  {
+    "A": "Nhiếp Phong là nhân vật chính trong phim hoạt hình trung quốc nào ?",
+    "B": "3. Chân Võ Đỉnh Phong"
+  },
+  {
+    "A": "Ninh Diêu là một nhân vật trong bộ phim hoạt hình trung quốc nào sau đây ?",
+    "B": "3. Kiếm Lai"
+  },
+  {
+    "A": "Nữ chính cũng là vợ Đông Bá Tuyết Ưng trong Tuyết Ưng Lĩnh Chủ là ai sau đây ?",
+    "B": "1. Dư Tĩnh Thu"
+  },
+  {
+    "A": "Nữ chính trong bộ Quyến Tư Lượng là ai ?",
+    "B": "3. Đồ Lệ"
+  },
+  {
+    "A": "Ông nội của Lâm Động trong Vũ Động Càn Khôn là ai ?",
+    "B": "4. Lâm Chấn Thiên"
+  },
+  {
+    "A": "Phụ Thân của Lâm Động trong Vũ Động Càn Khôn là ai ?",
+    "B": "3. Lâm Khiếu"
+  },
+  {
+    "A": "Phương Hàn là nhân vật trong bộ hoạt hình trung quốc nào sau đây ?",
+    "B": "1. Vĩnh Sinh"
+  },
+  {
+    "A": "Phương Hàn trong Vĩnh Sinh nhận được Giao Phục Hoàng Tuyền Đồ từ ai ?",
+    "B": "3. Bạch Hải Thiện"
+  },
+  {
+    "A": "Phương Hàn trong Vĩnh Sinh xuất thân là gì ở nhà họ Phương ?",
+    "B": "2. Nô Bộc"
+  },
+  {
+    "A": "Phượng Thanh Nhi trong Đấu Phá Thương Khung thuộc chủng tộc nào ?",
+    "B": "2. Thiên Yêu Hoàng Tộc"
+  },
+  {
+    "A": "Số hiệu vị thần của main trong Trảm Thần: Phàm Trần Thần Vực là số mấy ?",
+    "B": "2. 003"
+  },
+  {
+    "A": "Sử Lai Khắc Thất Quái đã từng đến nơi nào để luyện tập?",
+    "B": "1. Hải Thần Đảo"
+  },
+  {
+    "A": "Sư mẫu của Bạch Tiểu Thuần trong Nhất Niệm Vĩnh Hằng là ai ?",
+    "B": "1. Hứa Mị Nương"
+  },
+  {
+    "A": "Sư phụ của Bạch Tiểu Thuần trong Nhất Niệm Vĩnh Hằng là ai ?",
+    "B": "3. Lý Thanh Hậu"
+  },
+  {
+    "A": "Sư phụ của Lý Trường Thọ là ai ?",
+    "B": "3. Tề Nguyên"
+  },
+  {
+    "A": "Sư phụ mà Diệp Thần yêu trong Tiên Võ Đế Tôn là ai ?",
+    "B": "2. Sở Huyên Nhi"
+  },
+  {
+    "A": "Sư Phụ thứ 2 của Lý Trường Thọ trong phim ?",
+    "B": "2. Thái Thanh Thánh Nhân"
+  },
+  {
+    "A": "Tại sao Đường Tam bị Đường Môn truy sát ở tập đầu phim Đấu La Đại Lục ?",
+    "B": "3. Học trộm tuyệt học bổn môn"
+  },
+  {
+    "A": "Tần Vũ trong Tinh Thần Biến được tặng pháp bảo siêu cấp vip pro nào để tu luyện nhanh chóng ?",
+    "B": "1. Khương Lan Tháp"
+  },
+  {
+    "A": "Tần Vũ trong Tinh Thần Biến khiếm khuyết đan điền nhờ đâu mới có thể tu luyện ?",
+    "B": "4. Lưu Tinh Lệ"
+  },
+  {
+    "A": "Thánh nữ nào trong Già Thiên bị nhân vật chính Diệp Phàm lấy mất cái áo lót ?",
+    "B": "2. Diêu Hi"
+  },
+  {
+    "A": "Thần Thông Bí Cảnh xuất hiện trong bộ phim hoạt hình nào dưới đây ?",
+    "B": "4. Vĩnh Sinh"
+  },
+  {
+    "A": "Thần vị mà Đường Tam đạt được là gì ?",
+    "B": "2. Hải Thần và Tu La Thần"
+  },
+  {
+    "A": "Thế lực nào là đối thủ lớn nhất của Tiêu Viêm trong Đấu Phá Thương Khung ?",
+    "B": "1. Hồn Điện"
+  },
+  {
+    "A": "Thú cưng Thôn Thôn trong Nguyên Tôn sinh ra có sức mạnh ngang cảnh giới nào ?",
+    "B": "1. Thái Sơ Cảnh"
+  },
+  {
+    "A": "Tiêu Khinh Tuyết xuất hiện trong bộ hoạt hình nào dưới đây ?",
+    "B": "3. Tuyệt Thế Chiến Hồn"
+  },
+  {
+    "A": "Tiêu Viêm đã lập nên thế lực nào khi ở Học Viện Già Nam ?",
+    "B": "3. Bàn Môn"
+  },
+  {
+    "A": "Tiêu Viêm trong Đấu Phá Thương Khung đã Hẹn Ước 3 Năm với ai ?",
+    "B": "4. Nạp Lan Yên Nhiên"
+  },
+  {
+    "A": "Tiêu Viêm trong Đấu Phá Thương Khung sử dụng loại vũ khí nào sau đây ?",
+    "B": "4. Thước"
+  },
+  {
+    "A": "Tiêu Viêm trong Đấu Phá Thương Khung thuộc gia tộc nào ?",
+    "B": "2. Tiêu Gia"
+  },
+  {
+    "A": "Tình đầu của Diệp Phàm trong Già Thiên là ai ?",
+    "B": "4. Lý Tiểu Mạn"
+  },
+  {
+    "A": "Trần Bình An là nam chính trong bộ phim hoạt hình trung quốc nào ?",
+    "B": "1. Kiếm Lai"
+  },
+  {
+    "A": "Triệu Ngọc Chân là nhân vật trong bộ hoạt hình trung quốc nào sau đây ?",
+    "B": "2. Thiếu Niên Bạch Mã Túy Xuân Phong"
+  },
+  {
+    "A": "Trong bộ Đấu Phá Thương Khung, Tiêu Viêm tìm đến ai để cứu Dược Lão ?",
+    "B": "1. Phong Tôn Giả"
+  },
+  {
+    "A": "Trong bộ Tiên Nghịch, nhân vật chính Vương Lâm khi ở quê nhà còn có tên khác là gì ?",
+    "B": "2. Thiết Trụ"
+  },
+  {
+    "A": "Trong Đấu La Đại Lục, Đường Hạo là gì của Đường Tam ?",
+    "B": "2. Cha"
+  },
+  {
+    "A": "Trong Già Thiên, thể chất Diệp Phàm là thể chất gì ?",
+    "B": "2. Hoang Cổ Thánh Thể"
+  },
+  {
+    "A": "Trong Phàm Nhân Tu Tiên ai bị luyện thành khôi lỗi Khúc Hồn ?",
+    "B": "3. Trương Thiết"
+  },
+  {
+    "A": "Trong phim Tiên Nghịch, Vương Lâm vô tình có được pháp bảo nghịch thiên nào ?",
+    "B": "3. Thiên Nghịch Châu"
+  },
+  {
+    "A": "Trong Tiên Nghịch, Vương Lâm nhận được truyền thừa gì ở Cổ Thần Chi Địa ?",
+    "B": "4. Ký Ức"
+  },
+  {
+    "A": "Trong Tru Tiên, Điền Bất Dịch là thủ tọa của Phong nào ?",
+    "B": "4. Đại Trúc Phong"
+  },
+  {
+    "A": "Trong Vĩnh Sinh - Phương Hàn hẹn ước 10 năm cùng với ai ?",
+    "B": "3. Hoa Thiên Đô"
+  },
+  {
+    "A": "Trước khi đến Linh Khê Tông, Bạch Tiểu Thuần trong Nhất Niệm Vĩnh Hằng ở đâu ?",
+    "B": "2. Mạo Nhi Sơn Thôn"
+  },
+  {
+    "A": "Trương Tiểu Phàm trong phim Tru Tiên còn có tên gọi là ?",
+    "B": "1. Quỷ Lệ"
+  },
+  {
+    "A": "Trương Tiểu Phàm trong Tru Tiên từng được nhận vào môn phái nào ?",
+    "B": "2. Thanh Vân Môn"
+  },
+  {
+    "A": "Tử Nghiên trong Đấu Phá Thương Khung thuộc chủng tộc nào ?",
+    "B": "3. Thái Hư Cổ Long"
+  },
+  {
+    "A": "Vân Triệt là tên nhân vật chính trong bộ phim hoạt hình trung quốc nào sau đây ?",
+    "B": "3. Nghịch Thiên Tà Thần"
+  },
+  {
+    "A": "Vũ Canh là nhân vật trong bộ hoạt hình trung quốc nào sau đây ?",
+    "B": "2. Vũ Canh Kỷ"
+  },
+  {
+    "A": "Vũ hồn của Chu Trúc Thanh là gì ?",
+    "B": "4. U Minh Linh Miêu"
+  },
+  {
+    "A": "Vũ hồn của Đới Mộc Bạch là gì ?",
+    "B": "1. Bạch Hổ"
+  },
+  {
+    "A": "Vũ hồn của Mã Hồng Tuấn là gì ?",
+    "B": "3. Hỏa Phượng Hoàng"
+  },
+  {
+    "A": "Vũ hồn của Tiểu Vũ là gì ?",
+    "B": "3. Nhu Cốt Thỏ"
+  },
+  {
+    "A": "Vũ hồn thứ hai của Đường Tam là gì ?",
+    "B": "2. Hạo Thiên Chùy"
+  },
+  {
+    "A": "Vũ khí của Đàm Vân trong Nghịch Thiên Chí Tôn là gì ?",
+    "B": "1. Hồng Mông Thần Kiếm"
+  },
+  {
+    "A": "Vũ khí mà Tiêu Viêm trong Đấu Phá Thương Khung luôn mang bên mình có tên gọi là gì ?",
+    "B": "3. Huyền Trọng Xích"
+  },
+  {
+    "A": "Vương Lâm trong phim Tiên Nghịch dựa vào gì để vô địch cùng cảnh giới ?",
+    "B": "1. Cực Cảnh"
+  },
+  {
+    "A": "Y Lai Khắc Tư là một nhân vật trong bộ phim hoạt hình trung quốc nào sau đây ?",
+    "B": "3. Cả 1 và 2 (ĐLĐL2, TÂVT)"
+  },
+  {
+    "A": "Ai là người thầy của Đường Tam ?",
+    "B": "2. Đại Sư"
+  },
+  {
+    "A": "Thiên Hoả Tôn Giả trong Đấu Phá Thương Khung dùng thi thể của ai để hồi sinh ?",
+    "B": "4.Vân Sơn"
+  },
+  {
+    "A": "Lâm Thất Dạ là nhân vật trong bộ hoạt hình trung quốc nào sau đây ?",
+    "B": "2. Trảm Thần"
+  },
+  {
+    "A": "Ám tinh giới được xuất hiện trong bộ phim hoạt hình nào dưới đây ?",
+    "B": "3. Tinh Thần Biến"
+  },
+  {
+    "A": "Tỉnh Cửu là nhân vật chính trong bộ phim hoạt hình trung quốc nào sau đây ?",
+    "B": "2. Đại Đạo Triều Thiên"
+  },
+  {
+    "A": "Lý Tinh Vân là một nhân vật trong bộ phim hoạt hình trung quốc nào sau đây ?",
+    "B": "1. Họa Giang Hồ Chi Bất Lương Nhân"
+  },
+  {
+    "A": "Tần Mục là nhân vật chính trong bộ phim hoạt hình trung quốc nào sau đây ?",
+    "B": "4. Mục Thần Ký"
+  },
+  {
+    "A": "Tiêu Thần là nhân vật chính trong bộ phim hoạt hình Trung Quốc nào sau đây ?",
+    "B": "2. Trường Sinh Giới"
+  },
+  {
+    "A": "Tần Nam là nhân vật chính trong bộ hoạt hình trung quốc nào sau đây ?",
+    "B": "3. Tuyệt Thế Chiến Hồn"
+  },
+  {
+    "A": "Mục đích chính tu luyện của Tần Vũ trong Tinh Thần Biến là gì ?",
+    "B": "3. Vì muốn được cưới Khương Lập"
+  },
+  {
+    "A": "Khô Lâu Đà Chủ xuất hiện trong bộ phim hoạt hình nào dưới đây ?",
+    "B": "4. Võ Thần Chúa Tể"
+  },
+  {
+    "A": "Nhân vật chính trong Man Hoang Tiên Giới là ai ?",
+    "B": "2. Lục Hàng Chi"
+  },
+  {
+    "A": "Mục đích tu luyện của Tần Vũ trong Tinh Thần Biến là gì ?",
+    "B": "Vì muốn được cưới Khương Lập"
+  },
+  {
+    "A": "Nhân vật chính trong Quân Tử Vô Tật là ai ?",
+    "B": "Dao Cơ"
+  },
+  {
+    "A": "Nhân vật chính trong Đấu Chiến Thiên Hạ là ai ?",
+    "B": "Đại Phong"
+  },
+  {
+    "A": "Nhân vật chính trong Ta Có Thể Giác Ngộ Vô Hạn là ai ?",
+    "B": "Tiêu Vân"
+  },
+  {
+    "A": "Tại sao Hàn Lập khi gặp Phong Hi không chạy mà ở lại giúp đỡ chế tạo Phong Lôi Sí ?",
+    "B": "4. Vì đánh không lại"
+  },
+  {
+    "A": "Vô Tâm trong phim Thiếu Niên Ca Hành còn có tên gọi khác là gì ?",
+    "B": "Diệp An Thế"
+  },
+  {
+    "A": "Trong Phim Na Tra: Ma Đồng Náo Hải, Cha của Ngao Bính tên là ?",
+    "B": "Ngao Quảng"
+  },
+  {
+    "A": "Cô Kiếm Tiên trong phim Thiếu Niên Ca Hành là ai ?",
+    "B": "Lạc Thanh Dương"
+  },
+  {
+    "A": "Nam chính trong phim Ta Là Đại Thần Tiên là ?",
+    "B": "Thời Giang"
+  },
+  {
+    "A": "Trong phim Đại Đạo Triều Thiên, Tỉnh Cửu đã cùng thư đồng đến đâu tu luyện ?",
+    "B": "Thanh Sơn Tông"
+  },
+  {
+    "A": "Nam chính trong phim Sơn Hà Kiếm Tâm là ai ?",
+    "B": "Yến Vô Sư"
+  },
+  {
+    "A": "Thê tử của Điền Bất Dịch trong Tru Tiên là ai ?",
+    "B": "Tô Như"
+  },
+  {
+    "A": "Nam chính của phim Đô Thị Có Y Tiên là ?",
+    "B": "Diệp Bất Phàm"
+  },
+  {
+    "A": "Thế giới trong Mục Thần Ký chia thành mấy đại vực chính ?",
+    "B": "9"
+  },
+  {
+    "A": "Cổ Hà trong Đấu Phá Thương Khung lúc xuất hiện ở Vân Lam Tông là luyện dược sư mấy phẩm ?",
+    "B": "Lục Phẩm"
+  },
+  {
+    "A": "Vương Lâm trong Tiên Nghịch ở đâu có Tiên Ngọc đột phá Anh Biến ?",
+    "B": "Đi cướp (Chỉ là bằng hữu cho mượn tiên ngọc thôi:P)"
+  },
+  {
+    "A": "Nhân Vật chính trong phim Trấn Hồn Nhai là ?",
+    "B": "Hạ Linh"
+  },
+  {
+    "A": "Chu Tước Thánh Sứ trong Tru Tiên Là Ai ?",
+    "B": "U Cơ"
+  },
+  {
+    "A": "Bạch Nguyệt Khôi còn có tên gọi khác là gì ?",
+    "B": "Bà Chủ Bạch (A.K.A Bạch Lão Bản)"
+  },
+  {
+    "A": "Lâm Thất Dạ trong phim Trảm Thần gặp phải biến cố gì ?",
+    "B": "Bị mù (nhìn lên trời thấy vì tinh tú rồi bị chột)"
+  },
+  {
+    "A": "ID game Diệp Tu sử dụng trong phim Toàn Chức Cao Thủ ?",
+    "B": "Cả 1 và 2 (Thách đấu phá đảo rank đồng đoàn)"
+  },
+  {
+    "A": "Trong Kiếm Lai, Khi Man Châu Động Thiên đứng trước nguy cơ bị hủy diệt, là ai đã đứng ra bảo vệ người dân trong trấn ?",
+    "B": "Tề Tĩnh Xuân (Xuân phong đắc ý)"
+  },
+  {
+    "A": "Nhân vật chính trong Ta Có Thể Giác Ngộ Vô Hạn là ai ?",
+    "B": "Tiêu Vân (Truyện tranh hay hơn)"
+  },
+  {
+    "A": "Nhân vật chính trong phim Tần Thời Minh Nguyệt ?",
+    "B": "Kinh Thiên Minh (phim cổ)"
+  },
+  {
+    "A": "Tư Mã Ý trong phim Hỏa Phụng Liêu Nguyên có tên tự là gì ?",
+    "B": "Trọng Đạt"
+  },
+  {
+    "A": "Dương Khai trong Võ Luyện Đỉnh Phong song tu với ai đầu tiên ?",
+    "B": "Tô Nhan (em này được yêu nhất,lên map lại đi tìm :D)"
+  },
+  {
+    "A": "Ai là chủ nhân của Thôn Thôn trong Nguyên Tôn ?",
+    "B": "Yêu Yêu"
+  },
+  {
+    "A": "Trong phim Đại Đạo Triều Thiên, Triệu Lạp Nguyệt đến từ phong nào ?",
+    "B": "Thần Mạt Phong (Nữ như nam )"
+  },
+  {
+    "A": "Nhân vật chính Duy ngã độc thần ",
+    "B": "Ninh Thần (tên phim củ chuối)"
+  },
+  {
+    "A": "Mục Thần Ký được chuyển thể từ tiểu thuyết của tác giả nào?",
+    "B": "Trạch trư/thạch thư"
+  },
+  {
+    "A": "Tần Mục trong Mục Thần Ký lớn lên ở đâu ?",
+    "B": "Tàn Lão Thôn (Toàn người què)"
+  },
+  {
+    "A": "Nhân vật chính trong phim Toàn Chức cao thủ là ai ?",
+    "B": "Diệp Tu (Nhất Diệp Chi Thu)"
+  },
+  {
+    "A": "Ai là sư phụ của Diệp Phàm trong Già Thiên ?",
+    "B": "Lý Nhược Ngu (Tên 3 chấm...)"
+  },
+  {
+    "A": "Sở Phong trong Tu La Võ Thần có Huyết Mạch gì ?",
+    "B": "Thiên Lôi (chưa thấy phần mới)"
+  },
+  {
+    "A": "Trong Na Tra: Ma Đồng Giáng Thế, Na Tra được sinh ra từ gì ?",
+    "B": "Ma Hoàn (Hot hit phòng vé,nhưng mà xem lậu)"
+  },
+  {
+    "A": "Bộ phim Thiên Bảo Phục Yêu Lục lấy bối cảnh thời kỳ nào ?",
+    "B": "Đường"
+  },
+  {
+    "A": "Trong phim Đại Đạo Triều Thiên, Tỉnh Cửu đã thu nhận ai làm thư đồng ?",
+    "B": "Lưu Thập Tuế (họ liễu chứ nhể)"
+  },
+  {
+    "A": "Nhân vật chính trong phim Vạn Giới Tiên Tung là ai ?",
+    "B": "Diệp Tinh Vân"
+  },
+  {
+    "A": "1 Trong 2 Admin của website HoatHinh3D là ai ? (Biệt danh chính xác ở web) ?",
+    "B": "Từ Dương"
+  },
+  {
+    "A": "Lý Hàn Y trong phim Thiếu Niên Ca Hành sử dụng vũ khí gì ?",
+    "B": "Cả 1 và 2"
+  },
+  {
+    "A": "Trong các bộ phim sau, bộ nào nhân vật chính có hệ thống ?",
+    "B": "Ta Có Thể Giác Ngộ Vô Hạn"
+  },
+  {
+    "A": "Tam Thánh Niết là biệt danh của ai trong Họa Giang Hồ Chi Bất Lương Nhân ?",
+    "B": "Lý Tinh Vân"
+  },
+  {
+    "A": "Sư tỷ của Nguyên Dao trong Phàm Nhân Tu Tiên tên là gì ?",
+    "B": "Nghiên Lệ"
+  },
+  {
+    "A": "Phong Hi trong Phàm Nhân Tu Tiên là yêu thú nào ?",
+    "B": "Liệt phong thú"
+  },
+  {
+    "A": "Trong phim Vạn Cổ Tối Cường Tông, Quân Thường Tiếu chiêu mộ ai làm đệ từ đầu tiên ?",
+    "B": "Lục Thiên Thiên"
+  },
+  {
+    "A": "Liễu Thất Nguyệt trong Thương Nguyên Đồ sử dụng vũ khí gì ?",
+    "B": "Cung"
+  },
+  {
+    "A": "Nhân vật chính trong phim Sư Huynh A Sư Huynh là ai ?",
+    "B": "Lý Trường Thọ"
+  },
+  {
+    "A": "Ai sau đây làm lễ cưới với Lý Mộ Uyển trong Tiên Nghịch thì bị anh Lâm giết ?",
+    "B": "Tôn Chấn Vỹ. (Thực ra là Tôn Trấn Vĩ nhưng đáp án vậy đó :v)"
+  },
+  {
+    "A": "Ôn Thiên Nhân trong Phàm Nhân Tu Tiên tu luyện công pháp gì ?",
+    "B": "Lục Cực Chân Ma Công"
+  },
+  {
+    "A": "Phong Hi trong Phàm Nhân Tu Tiên là yêu thú cấp mấy ?",
+    "B": "9"
+  },
+  {
+    "A": "Trong Đấu Phá Thương Khung, Tiêu Viêm hơn Cổ Hà ở điểm gì ?",
+    "B": "Dị Hỏa"
+  },
+  {
+    "A": "Phong Hi trong Phàm Nhân Tu Tiên vì sao được gọi là Đại Thiện Nhân ?",
+    "B": "Cả 1 và 2"
+  },
+  {
+    "A": "Trong Đấu Phá Thương Khung,khi Vân Lam Tông giải tán thì Vân Vận đã gia nhập tông phái nào ?",
+    "B": "Hoa Tông"
+  },
+  {
+    "A": "Gia gia Thạch Hạo trong phim Thế Giới Hoàn Mỹ tên gì ?",
+    "B": "Thạch Trung Thiên"
+  },
+  {
+    "A": "Con gái của quỷ vương trong Tru Tiên tên là gì ?",
+    "B": "Bích Dao"
   }
 ]
