@@ -59,8 +59,8 @@ export default function SearchToggle() {
             transition={{ duration: 0.5 }}
             className="relative mx-auto flex justify-center w-90 sm:w-140 md:w-170 lg:w-210 xl:w-240 text-base">
             <input
-                type="text" placeholder="Đạo hữu dán từ khóa vào đây nè 👉"
-                className="w-full px-4 py-2 pt-2.5 rounded-full border border-gray-400 bg-white pr-12 size-12 text-[17px]
+                type="text" placeholder="Đạo hữu dán từ khóa vào đây nhé 👉"
+                className="w-full px-4 py-2 pt-2.2 rounded-full border border-gray-400 bg-white pr-12 size-11 text-[16px]
                         text-gray-800 focus:outline-none focus:ring-1 focus:border-pink-600 transition"
                 onChange={(e) => setQuery(e.target.value)}
                 ref={inputRef}
