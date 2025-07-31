@@ -60,7 +60,7 @@ export default function SearchToggle() {
             className="relative mx-auto flex justify-center w-90 sm:w-140 md:w-170 lg:w-210 xl:w-240 text-base">
             <input
                 type="text" placeholder="Đạo hữu dán từ khóa vào đây nhé 👉"
-                className="w-full px-4 py-2 pt-2.2 rounded-full border border-gray-400 bg-white pr-12 size-11 text-[16px]
+                className="w-full px-4 py-2 pt-3 rounded-full border border-gray-400 bg-white pr-12 size-10 text-[16px]
                         text-gray-800 focus:outline-none focus:ring-1 focus:border-pink-600 transition"
                 onChange={(e) => setQuery(e.target.value)}
                 ref={inputRef}
@@ -81,7 +81,7 @@ export default function SearchToggle() {
                     className="absolute right-3 top-1/2 transform -translate-y-1/2 text-gray-500 hover:text-amber-300"
                     title="Dán từ clipboard"
                 >
-                    <ClipboardIcon className="size-6 mr-2" />
+                    <ClipboardIcon className="size-5 mr-2" />
                 </button>
             )}
 
