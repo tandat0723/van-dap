@@ -14,13 +14,13 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Phong Thần",
-  description: "Vấn đáp tông môn",
+  title: "Phong Thần | Vấn đáp",
 };
 
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
+      <link rel="icon" href="/favicon.png" sizes="any"/>
       <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
         {children}
       </body>
