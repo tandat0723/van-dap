@@ -11,7 +11,7 @@ const Banner = () => {
         animate={{ opacity: 1, scale: 1 }}
         transition={{ duration: 0.5 }}
         className="">
-        <h1 className="text-pink-600 text-5xl md:text-6xl lg:text-8xl font-bold pb-4">
+        <h1 className="text-amber-300 text-5xl md:text-6xl lg:text-8xl font-bold pb-4">
           <TypeAnimation
             sequence={[
               "Vấn Đáp",

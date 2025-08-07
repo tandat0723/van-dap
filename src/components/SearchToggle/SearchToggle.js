@@ -60,11 +60,10 @@ export default function SearchToggle() {
             className="relative mx-auto flex justify-center w-90 sm:w-140 md:w-170 lg:w-210 xl:w-240 text-base">
             <input
                 type="text" placeholder="Đạo hữu dán từ khóa vào đây nhé 👉"
-                className="w-full px-4 py-2 pt-3 rounded-full border border-gray-400 bg-white pr-12 size-10 text-[16px]
-                        text-gray-800 focus:outline-none focus:ring-1 focus:border-pink-600 transition"
+                className="w-full px-4 py-2.5 pt-3 rounded-full border border-gray-400 bg-white pr-12 size-12 text-[16px] transition
+                        text-gray-800 focus:outline-none focus:ring-2 focus:ring-amber-300"
                 onChange={(e) => setQuery(e.target.value)}
                 ref={inputRef}
-                autoFocus
             />
 
             {query ? (
@@ -97,7 +96,7 @@ export default function SearchToggle() {
                         {result.map((item, index) => (
                             <div
                                 key={index}
-                                className="px-2 py-1.5 pl-4 border-gray-500 border-b-1 hover:bg-gray-100 text-[17px] transition">
+                                className="px-2 py-1.5 pl-4 border-gray-500 border-b-1 hover:bg-gray-100 text-[17px] opacity-60 transition">
                                 {item.B}
                             </div>
                         ))}
