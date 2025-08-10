@@ -5,7 +5,7 @@ import { TypeAnimation } from "react-type-animation";
 
 const Banner = () => {
   return (
-    <div className='mb-10 md:mb-14 lg:mb-16 xl:mb-20'>
+    <div className='mb-1 md:mb-2 lg:mb-4 xl:mb-2'>
       <motion.div
         initial={{ opacity: 0, scale: 0.5 }}
         animate={{ opacity: 1, scale: 1 }}

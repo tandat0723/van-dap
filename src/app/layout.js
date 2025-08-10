@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Phong Thần | Vấn đáp",
+  title: "Phong Thần - Vấn Đáp",
 };
 
 export default function RootLayout({ children }) {
