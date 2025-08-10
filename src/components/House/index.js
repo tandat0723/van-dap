@@ -9,7 +9,7 @@ function House() {
         <div className="flex flex-col items-center justify-center h-screen">
             <Banner />
             <SearchToggle />
-            <Footer />
+            {/* <Footer /> */}
         </div>
     )
 }
